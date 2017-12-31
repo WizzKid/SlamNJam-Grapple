@@ -12,4 +12,5 @@ High level explanation of the Grapple:
 In this repository you will find:
 
 Grapple Input CD - Input and Cool Down for Grapple Hook.
+
 Grapple Logic - Grapple Hook behavior after input is detected.
